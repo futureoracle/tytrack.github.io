@@ -8,15 +8,35 @@ date: 2016-03-21
 ![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>ZPlus</b> is a simple person.</center>
 
-## About
+## About Me
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+name ： 三渣
+
+idol ：太田梦莉 && Taeyeon
+
+song ： 11:11
+
+hobby ： bilibili+AKB Group+贴吧
+
+school ： CUG
+
+description ： 一个妄想有一天能成为技术死宅的追偶像的不肥的死肥宅
 
 
-If you like this theme or using it, please give a **star** for motivation.
 
-You want to **use it?**      
+**Contact Me**
 
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+*Address*
+
+HuBei Wuhan
+
+CUG North
+
+Hours
+
+Monday—Friday: 9:00AM–5:00PM
+
+Saturday & Sunday: 11:00AM–3:00PM  
+{: .btn .btn-info}
