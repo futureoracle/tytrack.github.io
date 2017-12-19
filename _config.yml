@@ -4,7 +4,7 @@ bio:            'Just a kidding'
 description:    "You want to hide a tree,then a forest is the best place to do it."
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://tytrack.github.io/JBlog
+url:            https://tytrack.github.io
 
 
 # Jekyll
