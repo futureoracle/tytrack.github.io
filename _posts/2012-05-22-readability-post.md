@@ -18,6 +18,7 @@ Register'lar Neden Var
 Hangi Register Ne işe Yarar
 ---
 
+
 |  Register |  Sayısı |  Açıklama |
 |:---|:---:|---:|
 | $zero     | 0     | İçerisinde 0 sayısı vardır.  |
